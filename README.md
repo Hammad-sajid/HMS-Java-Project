@@ -1,2 +1,2 @@
 # JAVA
-This repository is  practice of JAVA Programming for  a Software Tester as well as a semester project as well.
+This repository contain  a semester project named hospital managemnet system using java as a programming language and MYSQL as database.
